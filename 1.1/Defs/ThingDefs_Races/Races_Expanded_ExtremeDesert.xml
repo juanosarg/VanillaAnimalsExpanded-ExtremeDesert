@@ -229,7 +229,7 @@
       <baseHealthScale>0.5</baseHealthScale>
       <foodType>CarnivoreAnimal, OvivoreAnimal</foodType>
       <leatherDef>Leather_Lizard</leatherDef>
-      <meatLabel>cobraflesh</meatLabel>
+      <useMeatFrom>Cobra</useMeatFrom>
       <wildness>0.75</wildness>
       <petness>0.05</petness>
       <manhunterOnTameFailChance>0.40</manhunterOnTameFailChance>
